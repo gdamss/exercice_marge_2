@@ -1,0 +1,19 @@
+body, p{
+    margin: 0px;
+}
+div{
+    background-color: #0AE;/*Bleu*/
+    margin: 20px 0px;
+}
+p{
+    background-color: #0ea;/*Vert*/
+}
+.p1{
+    margin-top: 20px;
+}
+.p2{
+    margin-bottom: 40px;
+}
+.bordure{
+    border: 1px solid black;
+}
